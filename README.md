@@ -8,3 +8,7 @@
       двух чисел, в ответ в body приходит результат вычисления.
 
 Для проверки корректности можно воспользоваться тестами
+
+![изображение](https://user-images.githubusercontent.com/60324635/172271082-2e806ef9-2cbe-415a-be1b-10393c49fbbd.png)
+
+![изображение](https://user-images.githubusercontent.com/60324635/172271164-eedf1867-12ab-486f-8139-71baddd469b2.png)
